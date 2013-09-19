@@ -1,0 +1,38 @@
+.container {
+  margin: 20px auto;
+  width: 600px;
+  padding: 0px 20px 20px 20px;
+  border: 1px dotted black;
+}
+th {
+  text-align: left;
+}
+
+
+.already {
+	color: green;
+
+}
+
+.beast {
+	color: pink;
+	text-shadow: 2px 2px #ff0000;
+	font-size: 56pt;
+}
+
+.errors {
+	color: red;
+	list-style: none;
+
+	}
+
+	.home {
+		font-style: bold;
+		font-size: 24pt;
+	}
+
+	.welcome {
+		font-style: bold;
+		font-color: pink;
+
+	}
